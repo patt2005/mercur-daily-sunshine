@@ -1,0 +1,134 @@
+{
+    "dailyTasks": [
+        {
+            "title": "Smile at a stranger",
+            "text": "Spread a little sunshine by offering a smile to someone today.",
+            "coins": 35
+        },
+        {
+            "title": "Write down three things you’re grateful for",
+            "text": "Start or end your day by focusing on the positives.",
+            "coins": 50
+        },
+        {
+            "title": "Take a 5-minute break to stretch",
+            "text": "A little movement can boost your mood and energy.",
+            "coins": 30
+        },
+        {
+            "title": "Compliment someone",
+            "text": "Send out a kind word or compliment, and make someone’s day.",
+            "coins": 40
+        },
+        {
+            "title": "Go for a 10-minute walk",
+            "text": "Fresh air and a change of scenery can refresh your mind.",
+            "coins": 55
+        },
+        {
+            "title": "Try a short breathing exercise",
+            "text": "Practice mindfulness for 5 minutes to center yourself.",
+            "coins": 35
+        },
+        {
+            "title": "Send a positive message to a friend",
+            "text": "Brighten someone’s day with a kind text.",
+            "coins": 45
+        },
+        {
+            "title": "Do something creative",
+            "text": "Take a few minutes to draw, write, or create something new.",
+            "coins": 50
+        },
+        {
+            "title": "Unplug from technology for an hour",
+            "text": "Spend this time being present, without screens.",
+            "coins": 65
+        },
+        {
+            "title": "Practice gratitude",
+            "text": "Take a moment to write down one thing that made you happy today.",
+            "coins": 30
+        },
+        {
+            "title": "Listen to your favorite song",
+            "text": "Let the music uplift your spirits for a few minutes.",
+            "coins": 25
+        },
+        {
+            "title": "Try a new hobby",
+            "text": "Spend 10 minutes exploring something you’ve always wanted to try.",
+            "coins": 55
+        },
+        {
+            "title": "Read a few pages of an inspiring book",
+            "text": "Find motivation in the words of others.",
+            "coins": 45
+        },
+        {
+            "title": "Plan a small act of kindness",
+            "text": "Think of one thing you can do to help someone today.",
+            "coins": 50
+        },
+        {
+            "title": "Take a moment to watch the sunrise or sunset",
+            "text": "Appreciate the beauty of nature.",
+            "coins": 30
+        },
+        {
+            "title": "Organize your workspace",
+            "text": "A tidy space can lead to a clearer mind.",
+            "coins": 60
+        },
+        {
+            "title": "Do a quick workout",
+            "text": "A 5-minute exercise can boost your endorphins.",
+            "coins": 40
+        },
+        {
+            "title": "Make a vision board",
+            "text": "Gather images or words that inspire your dreams and goals.",
+            "coins": 70
+        },
+        {
+            "title": "Write a short letter to your future self",
+            "text": "Share your hopes and aspirations.",
+            "coins": 55
+        },
+        {
+            "title": "Try a new recipe",
+            "text": "Experiment in the kitchen with something simple and fun.",
+            "coins": 65
+        },
+        {
+            "title": "Dance like no one’s watching",
+            "text": "Put on a song you love and just enjoy the moment.",
+            "coins": 35
+        },
+        {
+            "title": "Spend time in nature",
+            "text": "Take a moment to observe the beauty around you, even if it’s just outside your window.",
+            "coins": 50
+        },
+        {
+            "title": "Reflect on your day",
+            "text": "At the end of the day, jot down what went well and what you learned.",
+            "coins": 45
+        },
+        {
+            "title": "Make a list of your goals",
+            "text": "Write down your aspirations to keep them fresh in your mind.",
+            "coins": 55
+        },
+        {
+            "title": "Practice positive affirmations",
+            "text": "Repeat three affirmations that uplift you.",
+            "coins": 35
+        },
+        {
+            "title": "Create a self-care plan",
+            "text": "Write down a few things you can do to take care of yourself this week.",
+            "coins": 75
+        }
+    ]
+}
